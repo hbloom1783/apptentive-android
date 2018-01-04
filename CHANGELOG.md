@@ -5,6 +5,7 @@
 * Fixed a potential crash when used in Instant Apps that don't contain a launcher Activity.
 * Don't send payloads when the app is in the background.
 * Don't poll for messages when the app is in the background.
+* Fixed global Configuration polling.
 
 # 2017-08-15 - v4.0.2
 
